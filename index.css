@@ -1,0 +1,70 @@
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    background-color: #171C22;
+    color: white;
+}
+.nomeprincipal{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.butao{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+button{
+    background-color: #13AEE7;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 25px;
+    margin-bottom: 30px;
+}
+.img1{
+    width: 250px;
+    height: 250px;
+}
+.principal{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.disgramaracha{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: -20px;
+}
+.foto{
+    height: 200px;
+    width: 300px;
+}
+.kkkk{
+    height: 300px;
+    width: 300px;
+}
+.nnnn{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.designfotinho{
+    height: 200px;
+    width: 300px;
+    max-width: 400px;
+    max-height: 300px;
+}
+.design{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+  
